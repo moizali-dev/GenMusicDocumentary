@@ -1,1 +1,5 @@
-# GenMusicDocumentary
+# Context
+Advancements in language models, natural language processing, text-to-speech technology, increased computing power and greater awareness and adoption of these technologies have made it feasible to create a music documentary using language models and text-to-speech today compared to couple years ago. These developments enable more accurate and contextually relevant content generation, human-like natural-sounding narration, streamlined production processes, and improved access to music and archival material, making the project more achievable and impactful in the present time.
+
+# Objective
+The objective of this project is to produce a music documentary that explores the history, evolution, and impact of a specific genre, artist, or music movement. The documentary will leverage LLMs and TTS to generate script content and convert the generated text into spoken narration
